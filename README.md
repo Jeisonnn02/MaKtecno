@@ -1,2 +1,3 @@
 # MaKtecno
-Repositorio creado para practicar las funcionalidades de Git con los aprendices Sena
+Repositorio creado para practicar las funcionalidades de Git con los aprendices Sena.
+
